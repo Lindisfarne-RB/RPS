@@ -26,3 +26,4 @@ print(car1,car2,car3,car4,car5,car6)
 listofcars=[car1,car2,car3,car4,car5,car6]
 print(max(listofcars))
 print("I am adding more stuff v2")
+print("Exit code")
